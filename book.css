@@ -1,0 +1,42 @@
+h1{
+    background-color: black;
+    color: white;
+    text-align: center;
+ font-family: 'Times New Roman', Times, serif;
+}
+body{
+    background-color: black;
+}
+.c
+{
+    width: 31%;
+    height: 382px;
+    background-color: black;
+    color: white;
+    border: 4px white solid;
+    float: left;
+    padding: 11px;
+
+}
+a
+{
+    color: gold;
+    margin-top: 10px;
+    margin-left: 12px;
+}
+img{
+    width: 36%;
+    height: 154px;
+    margin-left: 137px;
+    margin-top: -10px;
+}
+.a1
+{
+    color: azure;
+text-align: center;
+}
+.m1
+{
+    text-align: center;
+    margin-top: 3px;
+}
